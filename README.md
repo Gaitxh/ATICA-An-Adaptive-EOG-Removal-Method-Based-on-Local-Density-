@@ -1,5 +1,9 @@
 # ATICA-An-Adaptive-EOG-Removal-Method-Based-on-Local-Density-
-this is the open access code for "一种基于局部密度的自适应眼电伪迹去除方法", and the paper cite link is "Peiyang L I, Xiaohui G A O, Pengcheng Z H U, et al. 一种基于局部密度的自适应眼电伪迹去除方法[J]. 电子与信息学报, 2022, 44: 1-13.", or "LI P, GAO X, ZHU P, et al. An Adaptive EOG Removal Method Based on Local Density[J]. 电子与信息学报, 2022, 44(2): 464-476."
+this is the open access code for "一种基于局部密度的自适应眼电伪迹去除方法", and the paper cite link is "Peiyang L I, Xiaohui G A O, Pengcheng Z H U, et al. 一种基于局部密度的自适应眼电伪迹去除方法[J]. 电子与信息学报, 2022, 44: 1-13.", 
+
+or 
+
+"LI P, GAO X, ZHU P, et al. An Adaptive EOG Removal Method Based on Local Density[J]. 电子与信息学报, 2022, 44(2): 464-476."
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
